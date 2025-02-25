@@ -1,0 +1,8 @@
+{
+  "name": "TradingMaster ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "341a0e13"
+}
